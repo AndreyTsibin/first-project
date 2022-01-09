@@ -1,0 +1,24 @@
+/* Начертание regular */
+@font-face {
+  src: url(../vendor/fonts/Inter/Inter-Regular.woff2) format('woff2'),
+    url(../vendor/fonts/Inter/Inter-Regular.woff) format('woff'),
+    url(../vendor/fonts/Inter/InterRegular.ttf) format('truetype');
+  font-family: 'Inter';
+  font-weight: normal;
+}
+/* Начертание SemiBold */
+@font-face {
+  src: url(../vendor/fonts/Inter/Inter-SemiBold.woff2) format('woff2'),
+    url(../vendor/fonts/Inter/Inter-SemiBold.woff) format('woff'),
+    url(../vendor/fonts/Inter/InterSemiBold.ttf) format('truetype');
+  font-family: 'Inter';
+  font-weight: 600;
+}
+/* Начертание Bold */
+@font-face {
+  src: url(../vendor/fonts/Inter/Inter-Bold.woff2) format('woff2'),
+    url(../vendor/fonts/Inter/Inter-Bold.woff) format('woff'),
+    url(../vendor/fonts/Inter/InterBold.ttf) format('truetype');
+  font-family: 'Inter';
+  font-weight: bold;
+}
