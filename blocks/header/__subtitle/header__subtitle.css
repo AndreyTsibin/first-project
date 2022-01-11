@@ -1,0 +1,12 @@
+.header__subtitle {
+  z-index: 2;
+  display: block;
+  position: absolute;
+  bottom: 30px;
+  max-width: 388px;
+  font-size: 18px;
+  line-height: 25px;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+}
