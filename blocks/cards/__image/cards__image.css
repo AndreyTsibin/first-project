@@ -1,0 +1,33 @@
+.cards_image {
+  margin-bottom: 43px;
+}
+
+.cards__image_attention {
+  border-radius: 50%;
+  width: 160px;
+  height: 160px;
+}
+
+.cards__image_recall {
+  border-radius: 50%;
+  width: 160px;
+  height: 160px;
+}
+
+.cards__interliving {
+  border-radius: 50%;
+  width: 160px;
+  height: 160px;
+}
+
+.cards__question {
+  border-radius: 50%;
+  width: 160px;
+  height: 160px;
+}
+
+.cards__competence {
+  border-radius: 50%;
+  width: 160px;
+  height: 160px;
+}
